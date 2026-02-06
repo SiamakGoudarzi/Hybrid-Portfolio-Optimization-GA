@@ -243,4 +243,5 @@ figure (1);
 semilogy(1:MaxIt,BestCost,'LineWidth',4);
 plot (1:stopIt, -1 * BestCost(1:stopIt));
 xlabel('Iteration');
+
 ylabel('Objective Function');
