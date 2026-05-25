@@ -1,5 +1,4 @@
 # Hybrid Portfolio Optimization: GA, TOPSIS & Hybrid Clustering (SOM + K-means)
-# Hybride Portfolio-Optimierung: GA, TOPSIS & Hybrid-Clustering (SOM + K-means)
 
 ## 🌎 Language / Sprache
 - [English](#english)
